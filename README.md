@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe](https://ibb.co/nwKgvPs)
+![Tic Tac Toe](https://github.com/Onissum/tic-tac-toe-variants/blob/main/Screenshot%202023-08-20%20195513.png)
 
 A simple Tic Tac Toe game that allows two players to play against each other or against an AI using the Minimax algorithm. There's also a Colab-compatible version for two-player offline play.
 
