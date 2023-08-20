@@ -30,7 +30,7 @@ To get started with the game, follow these steps:
 
 ## AI Opponent
 
-- Choose the "Play against AI" option to play against a computer opponent.
+- Choose the "VS.AI" option to play against a computer opponent.
 - The AI uses the Minimax algorithm to make its moves, providing a challenging game experience.
 
 ## Running on Google Colab
