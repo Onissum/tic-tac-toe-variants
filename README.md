@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe](https://www.dropbox.com/scl/fi/xgnn7y5efc1m0h51mkc23/tic_tac_toe_screen.png?dl=0&rlkey=oj9b3zytu63jnjr8z78jjs7kz)
+![Tic Tac Toe](https://www.dropbox.com/scl/fi/xgnn7y5efc1m0h51mkc23/tic_tac_toe_screen.png?rlkey=oj9b3zytu63jnjr8z78jjs7kz&dl=0)
 
 A simple Tic Tac Toe game that allows two players to play against each other or against an AI using the Minimax algorithm. There's also a Colab-compatible version for two-player offline play.
 
