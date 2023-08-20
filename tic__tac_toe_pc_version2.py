@@ -158,7 +158,7 @@ def ask_mode():
     mode_window = tk.Toplevel(window)
     mode_window.title("Scegli la modalità di gioco")
     # Creo due pulsanti per scegliere la modalità di gioco
-    button_1P = tk.Button(mode_window, text="1 giocatore", font=("Arial", 16), width=10, height=2,
+    button_1P = tk.Button(mode_window, text="VS. AI", font=("Arial", 16), width=10, height=2,
                           command=lambda: set_mode("1P"))
     button_2P = tk.Button(mode_window, text="2 giocatori", font=("Arial", 16), width=10, height=2,
                           command=lambda: set_mode("2P"))
