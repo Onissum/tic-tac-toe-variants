@@ -35,8 +35,11 @@ To get started with the game, follow these steps:
 
 ## Running on Google Colab
 
-- If you want to play with a friend on Google Colab, use the `tic_tac_toe_colab_version(by_AI_HELP).ipynb` notebook.
-- Open the notebook in Google Colab and follow the instructions to start a two-player game.
+If you want to play with a friend or play against the computer on Google Colab, use the `Tic_tac_toe_colab.ipynb` notebook.
+Click on the badge below to open the notebook directly in Google Colab and follow the instructions to start the game.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Onissum/tic-tac-toe-variants/blob/main/Tic_tac_toe_colab.ipynb)
+
 
 ## Contributing
 
